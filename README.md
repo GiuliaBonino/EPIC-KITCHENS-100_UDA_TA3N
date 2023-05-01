@@ -1,3 +1,9 @@
+NOTE PERSONALI
+1) to distinguish from temporal pooling and temporal relation:
+-to choose temporal pooling, set aggregatio_frame="avgpool"
+-to choose temporal relation, set aggregation_frame="trn" or "trn-m"
+
+
 # EPIC-KITCHENS-100 UDA Challenge Source Code
 This repository contains the code used to produce the baseline results (TA3N) for the EPIC-KITCHENS-100 UDA Challenge. 
 
